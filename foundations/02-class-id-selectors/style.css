@@ -11,3 +11,8 @@
 .font24{
     font-size: 24px;
 }
+
+#fourth-element {
+    background-color: #00800080;
+    font-weight: bold;
+}
